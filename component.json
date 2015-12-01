@@ -1,5 +1,5 @@
 {
-    "version": "v1.3.2",
+    "version": "v1.4.0",
     "repos": "https://github.com/ichord/At.js",
     "description": "Add Github like mentions autocomplete to your application. http://ichord.github.com/At.js",
     "name": "jquery-atwho",
